@@ -9,16 +9,15 @@ AtliQ Hardwares identified a gap in their ability to make quick, smart data-info
 # My Task
 As a hypothetical applicant for this role, I was tasked with:
 
-Reviewing the ad-hoc-requests.pdf, which contained 10 ad hoc business requests requiring insights.
-Writing and executing SQL queries to answer these requests.
-Creating a presentation to showcase these insights, targeting top-level management.
+ * Reviewing the ad-hoc-requests.pdf, which contained 10 ad hoc business requests requiring insights.
+ * Writing and executing SQL queries to answer these requests.
+ * Creating a presentation to showcase these insights, targeting top-level management.
+   
 # My Approach
-Data Extraction with SQL:
-
-Utilized MySQL to run queries and pull the necessary data.
-Data Visualization:
-
-Leveraged Power BI to visualize the output, making the insights clear and compelling.
+ 1. Data Extraction with SQL:
+    - Utilized MySQL to run queries and pull the necessary data.
+ 2. Data Visualization:
+    - Leveraged Power BI to visualize the output, making the insights clear and compelling.
 Presentation Design:
 
 Designed an engaging and professional presentation in Microsoft PowerPoint to effectively communicate the insights.
