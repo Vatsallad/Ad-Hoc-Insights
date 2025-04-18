@@ -47,6 +47,6 @@ Through this project, I demonstrated my ability to handle complex data queries a
     - Open the PowerPoint file to view the presentation designed for top-level management.
       
  4. Actionable Insights:
-   - Provided actionable insights and recommendations to assist the management team in making informed decisions.
+    - Provided actionable insights and recommendations to assist the management team in making informed decisions.
       
 This project is a demonstration of my skills in data analysis, SQL querying, data visualization, and presentation design in a business context. It showcases my ability to derive and communicate actionable insights from data, which is crucial for data-driven decision-making in a corporate environment.
